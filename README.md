@@ -2,7 +2,7 @@
 
 ###S1
 
-![img_1.png](s1.png)
+![C:\Users\kshitij varshney\WebstormProjects\spotify-clone\S1.png](C:\Users\kshitij varshney\WebstormProjects\spotify-clone\S1.png)
 
 ###S2
 
