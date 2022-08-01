@@ -2,7 +2,7 @@
 
 ###S1
 
-![img_1.png](s1.png)
+![s1.png](s1.png)
 
 ###S2
 
